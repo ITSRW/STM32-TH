@@ -1,3 +1,1 @@
-- Labmem No.001 of ITSRW - Lintaro
-- Main research area: System engineering; Intelligence optimization algrithm; Information system engineering; Neure Network;
-- E-mail:itsrwhq@protonmail.com(Oversea);itsrw@outlook.com(Internal);
+This is a simple Thermo-Hygrometer upper monitor Software based on java (for hardware's PC software api devolopment Rationale research).
